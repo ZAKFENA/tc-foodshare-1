@@ -21,11 +21,11 @@ function Home() {
         </div>
         <div>
           <Link to="/map">
-            <button type="button" className="btn btn-primary btn-md">
+            <button type="button" className="btn btn-success btn-md">
               Search{" "}
             </button>
           </Link>
-          <Link to="/input">
+          <Link to="/tc-food-share.herokuapp.com/input">
             <LoginButton />
           </Link>
         </div>
