@@ -5,6 +5,7 @@
     "database": "o9zmx2g799gn356e",
     "host": "dt3bgg3gu6nqye5f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
+    
   },
   "test": {
     "username": "u3k4prse1at33b60",
