@@ -25,7 +25,7 @@ function Home() {
               Search{" "}
             </button>
           </Link>
-          <Link to="/tc-food-share.herokuapp.com/input">
+          <Link to="/input">
             <LoginButton />
           </Link>
         </div>
