@@ -29,9 +29,9 @@ Quantity
 I can delete the pin from the map when the product is not available anymore. 
 
 ## Screen-Shots
-![Screen Shot 1](./assets/screenshot-homepage.png)
-![Screen Shot 1](./assets/screenshot-searchpage.png)
-![Screen Shot 1](./assets/screenshot-input.png)
+![Screen Shot 1](assets/screenshot-homepage.png)
+![Screen Shot 1](assets/screenshot-searchpage.png)
+![Screen Shot 1](assets/screenshot-input.png)
 
 
 ## Technology-Used
