@@ -7,8 +7,10 @@ const userRoutes = require("./routes/userRoutes");
 const inputRoutes = require("./routes/inputRoutes");
 const db = require('./models')
 // import location and user routes here
-const app = express();
 const PORT = process.env.PORT || 3001;
+const app = express();
+
+app.set("port", PORT);
 
 // Define middleware here
 app.use(express.urlencoded({ extended: true }));
