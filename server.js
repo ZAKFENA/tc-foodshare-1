@@ -27,6 +27,14 @@ app.use("/api/", inputRoutes);
 // add remaining routes
 
 // Connect to the Mongo DB ???
+ // "scripts": {
+  //   "start": "react-scripts start",
+  //   "client": "cd client && npm run start",
+  //   "seed": "node scripts/seedDB.js",
+  //   "install": "cd client && npm install",
+  //   "build": "npm run build",
+  //   "heroku-postbuild": "npm run build"
+  // },
 
 // Start the API server
 db.sequelize.sync().then(() => {
