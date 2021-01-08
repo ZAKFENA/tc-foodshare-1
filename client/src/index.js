@@ -6,7 +6,7 @@ import { Auth0Provider } from "@auth0/auth0-react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const url = "http://localhost:3000/input";
+const url = "http://tc-food-share.herokuapp.com/input";
 
 ReactDOM.render(
   <Auth0Provider
